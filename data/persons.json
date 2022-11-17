@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Charlie Smith",
+        "email":"charlie@tree.com",
+        "phone":"123-456-7890",
+        "birthdate":"01/01/1990",
+        "id":1
+    },
+    {
+        "name":"Christina Sanchez",
+        "email":"christina@plant.com",
+        "phone":"111-222-3333",
+        "birthdate":"01/01/2000",
+        "id":2
+    },
+    {
+        "name":"Yasmina Saiid",
+        "email":"yasmina@papier.com",
+        "phone":"555-111-4488",
+        "birthdate":"01/01/1980",
+        "id":3
+    }
+]
